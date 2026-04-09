@@ -1,0 +1,14 @@
+**/bin/
+**/obj/
+**/__pycache__/
+**/.venv/
+**/.vscode/
+*.pyc
+*.pyo
+*.log
+
+# Local helper and environment files not needed for submission
+Que.2/class task
+Que.2/dotnet-install.ps1
+Que.2/README.md
+Que.2/ws_ex1.py
